@@ -1,0 +1,20 @@
+Caluclating prime: 339
+Caluclating prime: 5
+Received from prime caluclator : 339  is not a prime number
+Caluclating prime: 394
+Received from prime caluclator : 5  is prime number
+Caluclating prime: 354
+Received from prime caluclator : 394  is not a prime number
+Caluclating prime: 403
+Received from prime caluclator : 354  is not a prime number
+Caluclating prime: 560
+Received from prime caluclator : 403  is not a prime number
+Caluclating prime: 727
+Received from prime caluclator : 560  is not a prime number
+Caluclating prime: 637
+Received from prime caluclator : 727  is prime number
+Caluclating prime: 213
+Received from prime caluclator : 637  is not a prime number
+Caluclating prime: 988
+Received from prime caluclator : 213  is not a prime number
+Received from prime caluclator : 988  is not a prime number
